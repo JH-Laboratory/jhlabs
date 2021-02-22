@@ -2,4 +2,4 @@
 ## JH Labs is currently under construction!
 ---
 Current JHL Gizmos:
-* [PasteOMatic - Gizmo #1](gizmos/1.md)
+* [PasteOMatic - Gizmo #1](gizmos/1/1.md)
